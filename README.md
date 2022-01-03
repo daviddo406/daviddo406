@@ -1,0 +1,6 @@
+- Hi, I’m David Do (@daviddo406)! I am currently a 3rd-year undergraduate at Drexel University for computer science.
+- I’m interested in analyzing big data and front-end web development. But, I'm currently exploring the various pockets of CS — I'll try a little bit of everything.
+- I’m currently practicing REACT. 
+- The courses I'm currently taking involve: Theory of Programming Languages.
+- How to reach me:
+- Gmail: phamdavid102@gmail.com
