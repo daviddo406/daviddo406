@@ -3,4 +3,4 @@
 - I’m currently practicing REACT. 
 - The courses I'm currently taking involve: Theory of Programming Languages.
 - How to reach me:
-- Gmail: phamdavid102@gmail.com
+- Gmail: davidphamdo2019@gmail.com
