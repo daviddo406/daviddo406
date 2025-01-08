@@ -1,3 +1,2 @@
-- Hi, I’m David Do (@daviddo406), a Drexel BSCS Graduate.
-- I'm currently exploring the various pockets of CS — I'll try a little bit of everything.
+- Hi, I’m David Do (@daviddo406), a 2024 Drexel BSCS Graduate.
 - I’m currently practicing C++ with SFML.
