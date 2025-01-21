@@ -2,5 +2,5 @@
 - I’m currently practicing C++ with SFML.
 
 
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
