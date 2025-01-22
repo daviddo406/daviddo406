@@ -1,13 +1,13 @@
-- Hi, I’m David Do (@daviddo406), a 2024 Drexel BSCS Graduate.
-- I’m currently practicing C++ with SFML.
+
+**Hi, I'm David Do (daviddo406)**
+
+I am a 2024 Drexel BSCS Graduate. This space displays my attempts in creating useful and/**or** fun programs.
+
+**Currently...**
+
+- I’m interested in practicing C++
+  - with SFML
+  - and in Unreal Engine projects
 
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddo406&hide=cmake&theme=holi&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
